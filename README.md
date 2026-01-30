@@ -20,3 +20,8 @@ Diving deep into big-O analysis has refined my perspective on performance and al
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
 Experience has been my greatest teacher. For instance, after crafting numerous file streams, I've established a go-to function for future projects. Moreover, I'm considering consolidating recurrent elements to form a library for enhanced efficiency.
+
+## Author
+
+Brad Mills ([@MillsAirCode](https://github.com/MillsAirCode))
+
